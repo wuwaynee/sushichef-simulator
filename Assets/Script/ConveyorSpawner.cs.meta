@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aeeb72e492bb6ec4ca5e64ccf7cf00d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roller: {fileID: 11400000, guid: e823f3b6e719e3f43aa7c94f05a5a717, type: 2}
+  - belt: {fileID: 11400000, guid: 9b39205a6174ec0459c7e5b7ad25a43e, type: 2}
+  executionOrder: -10
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
