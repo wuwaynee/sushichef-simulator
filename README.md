@@ -28,4 +28,4 @@
 - During gameplay, click the **pause icon** in the upper-left corner to pause the game and access the menu.  
 
 ## Source Code and Assets
-- The source code and assets are located in the `Assets` folder within the `Project` directory.  
+- The source code and assets are mostly located in the `Assets` folder.  
